@@ -1,0 +1,3 @@
+######Intracellular competition shapes plasmid population dynamics
+
+#This repository contains the code use to run R simulations for the paper "Intracellular competition shapes plasmid population dynamics". In order to run them properly, you must create adequate home and file directories to save intermediary files.
